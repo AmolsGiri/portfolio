@@ -214,8 +214,7 @@ img{
   color: var(--first-color);
 }
 .home__img{
-  display: flex;
-  flex-direction: column;
+  max-width: 35%; 
   position: absolute;
   right: 0;
   bottom: 10;
